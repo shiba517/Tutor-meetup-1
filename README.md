@@ -74,7 +74,7 @@ I will take inspiration from the following images
 
 ### **Skeleton**
 #### Mobile screen
-[Link to mobile wireframe](images\WireframeForMobile.png)
+[Link to mobile wireframe](https://github.com/shiba517/Tutor-meetup-1/blob/main/images/WireframeForMobile.png)
 
 #### Monitor screen
 [Link to monitor wireframe](images\WireframeForMonitor.png)
