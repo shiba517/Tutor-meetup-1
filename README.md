@@ -69,12 +69,12 @@ A nav bar that stays on top will help the user on from their first visit and esp
 It'll be mainly of a green and some yellow of retor gadget like tone which will be in place from the header section to the footer with the shades changing for clear separation of sections. The typography will be IBM Plex Mono (from googleFonts) which will suit the retro gadget theme of the website.
 
 I will take inspiration from the following images
-* [Inspiration theme 1](images\retroGameInspo1.jpeg)
-* [Inspiration theme 2](images\retroGameInspo2.jfif)
+* [Inspiration theme 1](https://github.com/shiba517/Tutor-meetup-1/blob/main/images/retroGameInspo1.jpeg)
+* [Inspiration theme 2](https://github.com/shiba517/Tutor-meetup-1/blob/main/images/retroGameInspo2.jpeg)
 
 ### **Skeleton**
 #### Mobile screen
 [Link to mobile wireframe](https://github.com/shiba517/Tutor-meetup-1/blob/main/images/WireframeForMobile.png)
 
 #### Monitor screen
-[Link to monitor wireframe](images\WireframeForMonitor.png)
+[Link to monitor wireframe](https://github.com/shiba517/Tutor-meetup-1/blob/main/images/WireframeForMonitor.png)
